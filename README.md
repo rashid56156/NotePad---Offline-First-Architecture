@@ -215,8 +215,8 @@ sealed class NoteListIntent {
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/notepad-android.git
-cd notepad-android
+git clone https://github.com/rashid56156/NotePad---Offline-First-Architecture.git
+cd NotePad---Offline-First-Architecture
 ```
 
 **2. Open in Android Studio**
