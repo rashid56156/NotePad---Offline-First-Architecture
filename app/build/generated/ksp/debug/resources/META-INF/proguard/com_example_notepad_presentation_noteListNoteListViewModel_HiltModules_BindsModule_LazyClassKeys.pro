@@ -1,0 +1,3 @@
+-keep,allowobfuscation,allowshrinking class com.example.notepad.presentation.noteDetail.NoteDetailViewModel
+-keep,allowobfuscation,allowshrinking class com.example.notepad.presentation.noteDetail.NoteDetailViewModel
+-keep,allowobfuscation,allowshrinking class com.example.notepad.presentation.noteList.NoteListViewModel
